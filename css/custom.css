@@ -5,3 +5,33 @@
 hr {
     padding: 30px;
 }
+
+nav {
+    background-color: #f1a811;
+}
+
+nav a{
+    color: white;
+}
+
+nav a:hover{
+    color: black;
+}
+
+footer {
+    background-color: #f1a811;
+}
+
+footer button {
+    float: left;
+}
+
+.credits{
+    background-color: #f1a811;
+
+}
+
+.fiap-logo{
+    height: 50%;
+    width: 50%;
+}
